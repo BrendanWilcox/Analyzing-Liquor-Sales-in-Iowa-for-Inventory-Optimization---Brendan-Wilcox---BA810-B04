@@ -1,1 +1,1 @@
-# Analyzing-Liquor-Sales-in-Iowa-for-Inventory-Optimization---Brendan-Wilcox---BA810-B04
+# Analyzing-Liquor-Sales-in-Iowa-for-Inventory-Optimization--Brendan-Wilcox-BA810-B04
